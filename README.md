@@ -1,2 +1,2 @@
-# Laravel-Languages
-This repo is for adding language translations for Laravel projects of my own
+# Laravel Languages
+The repo is made so you can add your own language files with PR's.
